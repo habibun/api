@@ -7,6 +7,10 @@ API resources for learning
 [public-apis](https://github.com/public-apis/public-apis)  
 
 
+## Related
+- [REST](https://github.com/habibun/rest)  
+
+
 ## License
 Distributed under the MIT License. See **[LICENSE][license]** for more information.
 
