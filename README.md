@@ -16,4 +16,4 @@ Distributed under the MIT License. See **[LICENSE][license]** for more informati
 
 
 [//]: # (Links)
-[license]: https://github.com/habibun/miscellaneous/blob/main/LICENSE
+[license]: https://github.com/habibun/api/blob/main/LICENSE
